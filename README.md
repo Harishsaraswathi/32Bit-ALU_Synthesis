@@ -1,4 +1,4 @@
-# 32Bit-ALU_Synthesis
+# Exp-5:32Bit-ALU_Synthesis
 
 ## Aim:
 
@@ -37,9 +37,15 @@ used.
 
 #### Synthesis RTL Schematic :
 
+![WhatsApp Image 2024-11-18 at 22 28 18_cd5759d0](https://github.com/user-attachments/assets/52ab88f4-992b-458f-a50f-83f0d900c017)
+
 #### Area report:
 
+![Screenshot (330)](https://github.com/user-attachments/assets/876f014e-a7ab-4e15-bc05-1601bc65dce5)
+
 #### Power Report:
+
+![Screenshot (329)](https://github.com/user-attachments/assets/afb1f71d-3cbe-4f46-b8c7-a1651179c279)
 
 #### Result: 
 
